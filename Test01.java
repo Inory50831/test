@@ -1,7 +1,7 @@
 import java.util.*;
 
 /**
- * 等差数列
+ * 等差数列test
  */
 public class Test01{
     public static void main(String[] args){
